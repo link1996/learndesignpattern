@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Observer.iml" filepath="$PROJECT_DIR$/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coffee/coffee.iml" filepath="$PROJECT_DIR$/coffee/coffee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duke/duke.iml" filepath="$PROJECT_DIR$/duke/duke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observerinjavautil/observerinjavautil.iml" filepath="$PROJECT_DIR$/observerinjavautil/observerinjavautil.iml" />
     </modules>
   </component>
 </project>
